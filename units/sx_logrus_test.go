@@ -1,7 +1,7 @@
 package units
 
 import (
-	"sx.cases/sx_logrus"
+	"github.com/speauty/sx.cases/sx_logrus"
 	"testing"
 )
 

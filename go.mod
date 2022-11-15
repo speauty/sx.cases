@@ -1,4 +1,4 @@
-module sx.cases
+module github.com/speauty/sx.cases
 
 go 1.18
 
